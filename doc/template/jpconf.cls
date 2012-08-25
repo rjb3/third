@@ -948,7 +948,8 @@
 \newcommand{\SSC}{{\it Solid State Commun.} }
 \newcommand{\ZP}{{\it Z. Phys.} }
 %===================
-\pagestyle{headings}%\pagestyle{headings}
+\pagestyle{plain}
+%\pagestyle{headings}
 \pagenumbering{arabic}
 \raggedbottom
 \onecolumn

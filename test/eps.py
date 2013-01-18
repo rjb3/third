@@ -1,8 +1,5 @@
-import urllib
 
 # Open webpage
-url = 'http://investing.money.msn.com/investments/financial-statements?symbol=AAPL'
-page = urllib.urlopen(url)
 
 # Parse webpage
 from bs4 import BeautifulSoup

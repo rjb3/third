@@ -1,0 +1,1857 @@
+(dp0
+S'FOREX'
+p1
+(dp2
+S'GBPOMR'
+p3
+S'Pound Sterling / Rial Omani'
+p4
+sS'GHSUSD'
+p5
+S'Cedi / US Dollar'
+p6
+sS'GBPBDT'
+p7
+S'Pound Sterling / Taka'
+p8
+sS'USDNGN'
+p9
+S'US Dollar / Naira'
+p10
+sS'BRLCHF'
+p11
+S'Brazilian Real / Swiss Franc'
+p12
+sS'CNYCAD'
+p13
+S'Yuan Renminbi / Canadian Dollar'
+p14
+sS'AUDZAR'
+p15
+S'Australian Dollar / South African Rand'
+p16
+sS'HUFEUR'
+p17
+S'Hungarian Forint / Euro Dollar'
+p18
+sS'BWPCHF'
+p19
+S'Pula / Swiss Franc'
+p20
+sS'EURSAR'
+p21
+S'Euro Dollar / Saudi Riyal'
+p22
+sS'EURXPF'
+p23
+S'Euro Dollar / CFP Franc'
+p24
+sS'EURKZT'
+p25
+S'Euro Dollar / Tenge'
+p26
+sS'CNYAUD'
+p27
+S'Yuan Renminbi / Australian Dollar'
+p28
+sS'SGDARS'
+p29
+S'Singapore Dollar / Argentine Peso'
+p30
+sS'KWDGBP'
+p31
+S'Kuwaiti Dinar / Pound Sterling'
+p32
+sS'EURBAM'
+p33
+S'Euro Dollar / Convertible Marks'
+p34
+sS'USDSVC'
+p35
+S'US Dollar / El Salvador Colon'
+p36
+sS'AUDSGD'
+p37
+S'Australian Dollar / Singapore Dollar'
+p38
+sS'CHFTWD'
+p39
+S'Swiss Franc / New Taiwan Dollar'
+p40
+sS'CADZAR'
+p41
+S'Canadian Dollar / South African Rand'
+p42
+sS'PHPDKK'
+p43
+S'Philippine Peso / Danish Krone'
+p44
+sS'AUDIDR'
+p45
+S'Australian Dollar / Indian Rupiah'
+p46
+sS'BHDEUR'
+p47
+S'Bahraini Dinar / Euro Dollar'
+p48
+sS'SGDMXN'
+p49
+S'Singapore Dollar / Mexican Peso'
+p50
+sS'USDDZD'
+p51
+S'US Dollar / Algerian Dinar'
+p52
+sS'USDMKD'
+p53
+S'US Dollar / Denar'
+p54
+sS'USDGBP'
+p55
+S'US Dollar / Pound Sterling'
+p56
+sS'MXNAUD'
+p57
+S'Mexican Peso / Australian Dollar'
+p58
+sS'DKKSGD'
+p59
+S'Danish Krone / Singapore Dollar'
+p60
+sS'DKKCOP'
+p61
+S'Danish Krone / Colombian Peso'
+p62
+sS'USDIQD'
+p63
+S'US Dollar / Iraqi Dinar'
+p64
+sS'SEKAUD'
+p65
+S'Swedish Krona / Australian Dollar'
+p66
+sS'SEKINR'
+p67
+S'Swedish Krona / Indian Rupee'
+p68
+sS'EGPJPY'
+p69
+S'Egyptian Pound / Japanese Yen'
+p70
+sS'EUREEK'
+p71
+S'Euro Dollar / Kroon'
+p72
+sS'GBPJPY'
+p73
+S'Pound Sterling / Japanese Yen'
+p74
+sS'SGDGBP'
+p75
+S'Singapore Dollar / Pound Sterling'
+p76
+sS'THBUSD'
+p77
+S'Thai Baht / US Dollar'
+p78
+sS'BGNCNY'
+p79
+S'Bulgarian Lev / Yuan Renminbi'
+p80
+sS'ETBGBP'
+p81
+S'Ethiopian Birr / Pound Sterling'
+p82
+sS'GBPTZS'
+p83
+S'Pound Sterling / Tanzanian Shilling'
+p84
+sS'KRWSEK'
+p85
+S'Korean Won / Swedish Krona'
+p86
+sS'EURNGN'
+p87
+S'Euro Dollar / Naira'
+p88
+sS'KRWCHF'
+p89
+S'Korean Won / Swiss Franc'
+p90
+sS'EEKDKK'
+p91
+S'Kroon / Danish Krone'
+p92
+sS'EURBWP'
+p93
+S'Euro Dollar / Pula'
+p94
+sS'GBPZMK'
+p95
+S'Pound Sterling / Kwacha'
+p96
+sS'ILSSEK'
+p97
+S'New Israeli Sheqel / Swedish Krona'
+p98
+sS'USDYER'
+p99
+S'US Dollar / Yemeni Rial'
+p100
+sS'NOKJPY'
+p101
+S'Norwegian Krone / Japanese Yen'
+p102
+sS'CHFARS'
+p103
+S'Swiss Franc / Argentine Peso'
+p104
+sS'CHFBWP'
+p105
+S'Swiss Franc / Pula'
+p106
+sS'CADNOK'
+p107
+S'Canadian Dollar / Norwegian Krone'
+p108
+sS'MYRCNY'
+p109
+S'Malaysian Ringgit / Yuan Renminbi'
+p110
+sS'DKKBGN'
+p111
+S'Danish Krone / Bulgarian Lev'
+p112
+sS'JPYUSD'
+p113
+S'Japanese Yen / US Dollar'
+p114
+sS'USDMYR'
+p115
+S'US Dollar / Malaysian Ringgit'
+p116
+sS'USDLSL'
+p117
+S'US Dollar / Loti'
+p118
+sS'THBHKD'
+p119
+S'Thai Baht / Hong Kong Dollar'
+p120
+sS'EURCVE'
+p121
+S'Euro Dollar / Cape Verde Escudo'
+p122
+sS'GBPKRW'
+p123
+S'Pound Sterling / Korean Won'
+p124
+sS'EURNZD'
+p125
+S'Euro Dollar / New Zealand Dollar'
+p126
+sS'QARGBP'
+p127
+S'Qatari Rial / Pound Sterling'
+p128
+sS'USDCUP'
+p129
+S'US Dollar / Cuban Peso'
+p130
+sS'MYRINR'
+p131
+S'Malaysian Ringgit / Indian Rupee'
+p132
+sS'KRWUSD'
+p133
+S'Korean Won / US Dollar'
+p134
+sS'CADIDR'
+p135
+S'Canadian Dollar / Indian Rupiah'
+p136
+sS'CNYGBP'
+p137
+S'Yuan Renminbi / Pound Sterling'
+p138
+sS'INRCNY'
+p139
+S'Indian Rupee / Yuan Renminbi'
+p140
+sS'ALLGBP'
+p141
+S'Lek / Pound Sterling'
+p142
+sS'BRLMXN'
+p143
+S'Brazilian Real / Mexican Peso'
+p144
+sS'ZARAED'
+p145
+S'South African Rand / UAE Dirham'
+p146
+sS'USDBHD'
+p147
+S'US Dollar / Bahraini Dinar'
+p148
+sS'PLNJPY'
+p149
+S'Polish Zloty / Japanese Yen'
+p150
+sS'GBPNGN'
+p151
+S'Pound Sterling / Naira'
+p152
+sS'IDRSGD'
+p153
+S'Indonesia Rupiah / Singapore Dollar'
+p154
+sS'EURZMK'
+p155
+S'Euro Dollar / Kwacha'
+p156
+sS'ZARPHP'
+p157
+S'South African Rand / Philippine Peso'
+p158
+sS'EURHTG'
+p159
+S'Euro Dollar / Gourde'
+p160
+sS'AUDDKK'
+p161
+S'Australian Dollar / Danish Krone'
+p162
+sS'HKDINR'
+p163
+S'Hong Kong Dollar / Indian Rupee'
+p164
+sS'NZDJPY'
+p165
+S'New Zealand Dollar / Japanese Yen'
+p166
+sS'SEKNOK'
+p167
+S'Swedish Krona / Norwegian Krone'
+p168
+sS'USDGNF'
+p169
+S'US Dollar / Guinea Franc'
+p170
+sS'AUDARS'
+p171
+S'Australian Dollar / Argentine Peso'
+p172
+sS'JPYAUD'
+p173
+S'Japanese Yen / Australian Dollar'
+p174
+sS'AEDAUD'
+p175
+S'UAE Dirham / Australian Dollar'
+p176
+sS'USDMWK'
+p177
+S'US Dollar / Kwacha'
+p178
+sS'EURGMD'
+p179
+S'Euro Dollar / Dalasi'
+p180
+sS'ZAREUR'
+p181
+S'South African Rand / Euro Dollar'
+p182
+sS'INRCAD'
+p183
+S'Indian Rupee / Canadian Dollar'
+p184
+sS'EURIDR'
+p185
+S'Euro Dollar / Indian Rupiah'
+p186
+sS'BRLAUD'
+p187
+S'Brazilian Real / Australian Dollar'
+p188
+sS'MXNCZK'
+p189
+S'Mexican Peso / Czech Koruna'
+p190
+sS'XPDEUR'
+p191
+S'Palladium / Euro Dollar'
+p192
+sS'USDSGD'
+p193
+S'US Dollar / Singapore Dollar'
+p194
+sS'USDBOB'
+p195
+S'US Dollar / Boliviano'
+p196
+sS'DKKMYR'
+p197
+S'Danish Krone / Malaysian Ringgit'
+p198
+sS'USDHRK'
+p199
+S'US Dollar / Croatian kuna'
+p200
+sS'ZARNOK'
+p201
+S'South African Rand / Norwegian Krone'
+p202
+sS'ZARCHF'
+p203
+S'South African Rand / Swiss Franc'
+p204
+sS'EURGBP'
+p205
+S'Euro Dollar / Pound Sterling'
+p206
+sS'EURDJF'
+p207
+S'Euro Dollar / Djibouti Franc'
+p208
+sS'EURSDD'
+p209
+S'Euro Dollar / Sudanese Dinar'
+p210
+sS'GBPRUB'
+p211
+S'Pound Sterling / Russian Ruble'
+p212
+sS'USDTND'
+p213
+S'US Dollar / Tunisian Dinar'
+p214
+sS'XAGAUD'
+p215
+S'Silver / Australian Dollar'
+p216
+sS'MYRUSD'
+p217
+S'Malaysian Ringgit / US Dollar'
+p218
+sS'USDXOF'
+p219
+S'US Dollar / CFA Franc BCEAO'
+p220
+sS'NIOGBP'
+p221
+S'Cordoba Oro / Pound Sterling'
+p222
+sS'KRWHKD'
+p223
+S'Korean Won / Hong Kong Dollar'
+p224
+sS'CHFKRW'
+p225
+S'Swiss Franc / Korean Won'
+p226
+sS'BRLUSD'
+p227
+S'Brazilian Real / US Dollar'
+p228
+sS'EURIRR'
+p229
+S'Euro Dollar / Iranian Rial'
+p230
+sS'MYRTHB'
+p231
+S'Malaysian Ringgit / Thai Baht'
+p232
+sS'USDBMD'
+p233
+S'US Dollar / Bermudian Dollar'
+p234
+sS'BDTGBP'
+p235
+S'Taka / Pound Sterling'
+p236
+sS'NZDHKD'
+p237
+S'New Zealand Dollar / Hong Kong Dollar'
+p238
+sS'DKKPLN'
+p239
+S'Danish Krone / Polish Zloty'
+p240
+sS'PENGBP'
+p241
+S'Nuevo Sol / Pound Sterling'
+p242
+sS'EURGTQ'
+p243
+S'Euro Dollar / Guatemalan Quetzal'
+p244
+sS'NZDSEK'
+p245
+S'New Zealand Dollar / Swedish Krona'
+p246
+sS'INRTHB'
+p247
+S'Indian Rupee / Thai Baht'
+p248
+sS'HNLGBP'
+p249
+S'Honduran Lempira / Pound Sterling'
+p250
+sS'USDEUR'
+p251
+S'US Dollar / Euro Dollar'
+p252
+sS'BWPZAR'
+p253
+S'Pula / South African Rand'
+p254
+sS'GBPLKR'
+p255
+S'Pound Sterling / Sri Lanka Rupee'
+p256
+sS'SZLCHF'
+p257
+S'Lilangeni / Swiss Franc'
+p258
+sS'EURTND'
+p259
+S'Euro Dollar / Tunisian Dinar'
+p260
+sS'DKKGBP'
+p261
+S'Danish Krone / Pound Sterling'
+p262
+sS'GBPQAR'
+p263
+S'Pound Sterling / Qatari Rial'
+p264
+sS'KZTGBP'
+p265
+S'Tenge / Pound Sterling'
+p266
+sS'SEKJPY'
+p267
+S'Swedish Krona / Japanese Yen'
+p268
+sS'TWDCHF'
+p269
+S'New Taiwan Dollar / Swiss Franc'
+p270
+sS'HKDARS'
+p271
+S'Hong Kong Dollar / Argentine Peso'
+p272
+sS'BRLHKD'
+p273
+S'Brazilian Real / Hong Kong Dollar'
+p274
+sS'MXNZAR'
+p275
+S'Mexican Peso / South African Rand'
+p276
+sS'GBPINR'
+p277
+S'Pound Sterling / Indian Rupee'
+p278
+sS'EURRUB'
+p279
+S'Euro Dollar / Russian Ruble'
+p280
+sS'EURMWK'
+p281
+S'Euro Dollar / Kwacha'
+p282
+sS'AEDINR'
+p283
+S'UAE Dirham / Indian Rupee'
+p284
+sS'SGDDKK'
+p285
+S'Singapore Dollar / Danish Krone'
+p286
+sS'AUDFJD'
+p287
+S'Australian Dollar / Fiji Dollar'
+p288
+sS'EURPAB'
+p289
+S'Euro Dollar / Balboa'
+p290
+sS'USDLBP'
+p291
+S'US Dollar / Lebanese Pound'
+p292
+sS'IDRAUD'
+p293
+S'Indonesia Rupiah / Australian Dollar'
+p294
+sS'SGDCHF'
+p295
+S'Singapore Dollar / Swiss Franc'
+p296
+sS'THBNZD'
+p297
+S'Thai Baht / New Zealand Dollar'
+p298
+sS'GBPCNY'
+p299
+S'Pound Sterling / Yuan Renminbi'
+p300
+sS'GBPTTD'
+p301
+S'Pound Sterling / Trinidad and Tobago'
+p302
+sS'ISKGBP'
+p303
+S'Iceland Krona / Pound Sterling'
+p304
+sS'EURCRC'
+p305
+S'Euro Dollar / Costa Rican Colon'
+p306
+sS'GBPSGD'
+p307
+S'Pound Sterling / Singapore Dollar'
+p308
+sS'BWPGBP'
+p309
+S'Pula / Pound Sterling'
+p310
+sS'EURLVL'
+p311
+S'Euro Dollar / Latvian Lats'
+p312
+sS'CYPZAR'
+p313
+S'Cyprus Pound / South African Rand'
+p314
+sS'EURMAD'
+p315
+S'Euro Dollar / Moroccan Dirham'
+p316
+sS'EURAFN'
+p317
+S'Euro Dollar / Afghani'
+p318
+sS'USDARS'
+p319
+S'US Dollar / Argentine Peso'
+p320
+sS'XAGGBP'
+p321
+S'Silver / Pound Sterling'
+p322
+sS'NZDUSD'
+p323
+S'New Zealand Dollar / US Dollar'
+p324
+sS'PHPJPY'
+p325
+S'Philippine Peso / Japanese Yen'
+p326
+sS'THBEUR'
+p327
+S'Thai Baht / Euro Dollar'
+p328
+sS'EURJMD'
+p329
+S'Euro Dollar / Jamaican Dollar'
+p330
+sS'CNYDKK'
+p331
+S'Yuan Renminbi / Danish Krone'
+p332
+sS'KRWMYR'
+p333
+S'Korean Won / Malaysian Ringgit'
+p334
+sS'GBPHTG'
+p335
+S'Pound Sterling / Gourde'
+p336
+sS'XAGZAR'
+p337
+S'Silver / South African Rand'
+p338
+sS'GBPNOK'
+p339
+S'Pound Sterling / Norwegian Krone'
+p340
+sS'KRWEUR'
+p341
+S'Korean Won / Euro Dollar'
+p342
+sS'CHFCNY'
+p343
+S'Swiss Franc / Yuan Renminbi'
+p344
+sS'NZDAUD'
+p345
+S'New Zealand Dollar / Australian Dollar'
+p346
+sS'GBPLVL'
+p347
+S'Pound Sterling / Latvian Lats'
+p348
+sS'XAUCAD'
+p349
+S'Gold / Canadian Dollar'
+p350
+sS'HKDBRL'
+p351
+S'Hong Kong Dollar / Brazilian Real'
+p352
+sS'IQDGBP'
+p353
+S'Iraqi Dinar / Pound Sterling'
+p354
+sS'ARSGBP'
+p355
+S'Argentine Peso / Pound Sterling'
+p356
+sS'USDUAH'
+p357
+S'US Dollar / Hryvnia'
+p358
+sS'CADAUD'
+p359
+S'Canadian Dollar / Australian Dollar'
+p360
+sS'IDRMYR'
+p361
+S'Indonesia Rupiah / Malaysian Ringgit'
+p362
+sS'CADPKR'
+p363
+S'Canadian Dollar / Pakistan Rupee'
+p364
+sS'USDKRW'
+p365
+S'US Dollar / Korean Won'
+p366
+sS'CHFTHB'
+p367
+S'Swiss Franc / Thai Baht'
+p368
+sS'EURKWD'
+p369
+S'Euro Dollar / Kuwaiti Dinar'
+p370
+sS'GBPMUR'
+p371
+S'Pound Sterling / Mauritius Rupee'
+p372
+sS'CADCHF'
+p373
+S'Canadian Dollar / Swiss Franc'
+p374
+sS'KRWTHB'
+p375
+S'Korean Won / Thai Baht'
+p376
+sS'DKKNZD'
+p377
+S'Danish Krone / New Zealand Dollar'
+p378
+sS'GBPBHD'
+p379
+S'Pound Sterling / Bahraini Dinar'
+p380
+sS'TWDAUD'
+p381
+S'New Taiwan Dollar / Australian Dollar'
+p382
+sS'GBPIRR'
+p383
+S'Pound Sterling / Iranian Rial'
+p384
+sS'MWKGBP'
+p385
+S'Kwacha / Pound Sterling'
+p386
+sS'AUDHKD'
+p387
+S'Australian Dollar / Hong Kong Dollar'
+p388
+sS'DJFGBP'
+p389
+S'Djibouti Franc / Pound Sterling'
+p390
+sS'EURUGX'
+p391
+S'Euro Dollar / Uganda Shilling'
+p392
+sS'XPFGBP'
+p393
+S'CFP Franc / Pound Sterling'
+p394
+sS'AUDKRW'
+p395
+S'Australian Dollar / Korean Won'
+p396
+sS'EURLSL'
+p397
+S'Euro Dollar / Loti'
+p398
+sS'NZDCHF'
+p399
+S'New Zealand Dollar / Swiss Franc'
+p400
+sS'JMDGBP'
+p401
+S'Jamaican Dollar / Pound Sterling'
+p402
+sS'GBPMXN'
+p403
+S'Pound Sterling / Mexican Peso'
+p404
+sS'GTQGBP'
+p405
+S'Guatemalan Quetzal / Pound Sterling'
+p406
+sS'EURCHF'
+p407
+S'Euro Dollar / Swiss Franc'
+p408
+sS'COPDKK'
+p409
+S'Colombian Peso / Danish Krone'
+p410
+sS'EURKHR'
+p411
+S'Euro Dollar / Riel'
+p412
+sS'DKKISK'
+p413
+S'Danish Krone / Iceland Krona'
+p414
+sS'EURSGD'
+p415
+S'Euro Dollar / Singapore Dollar'
+p416
+sS'RONGBP'
+p417
+S'Romanian Leu / Pound Sterling'
+p418
+sS'CHFPLN'
+p419
+S'Swiss Franc / Polish Zloty'
+p420
+sS'GBPSCR'
+p421
+S'Pound Sterling / Seychelles Rupee'
+p422
+sS'KRWINR'
+p423
+S'Korean Won / Indian Rupee'
+p424
+sS'GBPEEK'
+p425
+S'Pound Sterling / Kroon'
+p426
+sS'THBSGD'
+p427
+S'Thai Baht / Singapore Dollar'
+p428
+sS'BRLSEK'
+p429
+S'Brazilian Real / Swedish Krona'
+p430
+sS'CADDKK'
+p431
+S'Canadian Dollar / Danish Krone'
+p432
+sS'GBPDOP'
+p433
+S'Pound Sterling / Dominican Peso'
+p434
+sS'IDRTWD'
+p435
+S'Indonesia Rupiah / New Taiwan Dollar'
+p436
+sS'GBPAED'
+p437
+S'Pound Sterling / UAE Dirham'
+p438
+sS'CHFHUF'
+p439
+S'Swiss Franc / Hungarian Forint'
+p440
+sS'USDTWD'
+p441
+S'US Dollar / New Taiwan Dollar'
+p442
+sS'CADTWD'
+p443
+S'Canadian Dollar / New Taiwan Dollar'
+p444
+sS'USDMUR'
+p445
+S'US Dollar / Mauritius Rupee'
+p446
+sS'SEKDKK'
+p447
+S'Swedish Krona / Danish Krone'
+p448
+sS'SEKGBP'
+p449
+S'Swedish Krona / Pound Sterling'
+p450
+sS'USDISK'
+p451
+S'US Dollar / Iceland Krona'
+p452
+sS'ARSBRL'
+p453
+S'Argentine Peso / Brazilian Real'
+p454
+sS'CHFGBP'
+p455
+S'Swiss Franc / Pound Sterling'
+p456
+sS'GBPGTQ'
+p457
+S'Pound Sterling / Guatemalan Quetzal'
+p458
+sS'EURBND'
+p459
+S'Euro Dollar / Brunei Dollar'
+p460
+sS'CADGBP'
+p461
+S'Canadian Dollar / Pound Sterling'
+p462
+sS'USDPGK'
+p463
+S'US Dollar / Papua New Guinea Kina'
+p464
+sS'ZMKZAR'
+p465
+S'Kwacha / South African Rand'
+p466
+sS'HKDPKR'
+p467
+S'Hong Kong Dollar / Pakistan Rupee'
+p468
+sS'USDKHR'
+p469
+S'US Dollar / Riel'
+p470
+sS'USDSAR'
+p471
+S'US Dollar / Saudi Riyal'
+p472
+sS'EURMKD'
+p473
+S'Euro Dollar / Denar'
+p474
+sS'GBPPKR'
+p475
+S'Pound Sterling / Pakistan Rupee'
+p476
+sS'XAUUSD'
+p477
+S'Gold / US Dollar'
+p478
+sS'TWDNZD'
+p479
+S'New Taiwan Dollar / New Zealand Dollar'
+p480
+sS'NZDMYR'
+p481
+S'New Zealand Dollar / Malaysian Ringgit'
+p482
+sS'CZKEUR'
+p483
+S'Czech Koruna / Euro Dollar'
+p484
+sS'AUDCAD'
+p485
+S'Australian Dollar / Canadian Dollar'
+p486
+sS'SGDUSD'
+p487
+S'Singapore Dollar / US Dollar'
+p488
+sS'PLNSEK'
+p489
+S'Polish Zloty / Swedish Krona'
+p490
+sS'QARZAR'
+p491
+S'Qatari Rial / South African Rand'
+p492
+sS'EURARS'
+p493
+S'Euro Dollar / Argentine Peso'
+p494
+sS'XAGTRY'
+p495
+S'Silver / Turkish Lira'
+p496
+sS'JPYINR'
+p497
+S'Japanese Yen / Indian Rupee'
+p498
+sS'THBINR'
+p499
+S'Thai Baht / Indian Rupee'
+p500
+sS'TWDSEK'
+p501
+S'New Taiwan Dollar / Swedish Krona'
+p502
+sS'NZDCZK'
+p503
+S'New Zealand Dollar / Czech Koruna'
+p504
+sS'CADKRW'
+p505
+S'Canadian Dollar / Korean Won'
+p506
+sS'INRMYR'
+p507
+S'Indian Rupee / Malaysian Ringgit'
+p508
+sS'SGDIDR'
+p509
+S'Singapore Dollar / Indian Rupiah'
+p510
+sS'CHFMXN'
+p511
+S'Swiss Franc / Mexican Peso'
+p512
+sS'ARSJPY'
+p513
+S'Argentine Peso / Japanese Yen'
+p514
+sS'SEKCHF'
+p515
+S'Swedish Krona / Swiss Franc'
+p516
+sS'AUDMYR'
+p517
+S'Australian Dollar / Malaysian Ringgit'
+p518
+sS'USDZMK'
+p519
+S'US Dollar / Kwacha'
+p520
+sS'HKDUSD'
+p521
+S'Hong Kong Dollar / US Dollar'
+p522
+sS'USDMAD'
+p523
+S'US Dollar / Moroccan Dirham'
+p524
+sS'USDSZL'
+p525
+S'US Dollar / Lilangeni'
+p526
+sS'XAGCHF'
+p527
+S'Silver / Swiss Franc'
+p528
+sS'AUDCNY'
+p529
+S'Australian Dollar / Yuan Renminbi'
+p530
+sS'EURDOP'
+p531
+S'Euro Dollar / Dominican Peso'
+p532
+sS'GBPXPF'
+p533
+S'Pound Sterling / CFP Franc'
+p534
+sS'GBPDJF'
+p535
+S'Pound Sterling / Djibouti Franc'
+p536
+sS'THBKRW'
+p537
+S'Thai Baht / Korean Won'
+p538
+sS'GBPUGX'
+p539
+S'Pound Sterling / Uganda Shilling'
+p540
+sS'AEDNZD'
+p541
+S'UAE Dirham / New Zealand Dollar'
+p542
+sS'USDHKD'
+p543
+S'US Dollar / Hong Kong Dollar'
+p544
+sS'EURPYG'
+p545
+S'Euro Dollar / Guarani'
+p546
+sS'HKDGBP'
+p547
+S'Hong Kong Dollar / Pound Sterling'
+p548
+sS'SGDTHB'
+p549
+S'Singapore Dollar / Thai Baht'
+p550
+sS'EURHNL'
+p551
+S'Euro Dollar / Honduran Lempira'
+p552
+sS'DKKLVL'
+p553
+S'Danish Krone / Latvian Lats'
+p554
+sS'LTLLVL'
+p555
+S'Lithuanian Litas / Latvian Lats'
+p556
+sS'NOKDKK'
+p557
+S'Norwegian Krone / Danish Krone'
+p558
+sS'MXNEUR'
+p559
+S'Mexican Peso / Euro Dollar'
+p560
+sS'JPYSEK'
+p561
+S'Japanese Yen / Swedish Krona'
+p562
+sS'EURRON'
+p563
+S'Euro Dollar / Romanian Leu'
+p564
+sS'GBPFJD'
+p565
+S'Pound Sterling / Fiji Dollar'
+p566
+sS'EURMYR'
+p567
+S'Euro Dollar / Malaysian Ringgit'
+p568
+sS'HKDKRW'
+p569
+S'Hong Kong Dollar / Korean Won'
+p570
+sS'BNDGBP'
+p571
+S'Brunei Dollar / Pound Sterling'
+p572
+sS'USDRUB'
+p573
+S'US Dollar / Russian Ruble'
+p574
+sS'CADMXN'
+p575
+S'Canadian Dollar / Mexican Peso'
+p576
+sS'CZKSEK'
+p577
+S'Czech Koruna / Swedish Krona'
+p578
+sS'USDCZK'
+p579
+S'US Dollar / Czech Koruna'
+p580
+sS'NZDTHB'
+p581
+S'New Zealand Dollar / Thai Baht'
+p582
+sS'USDPYG'
+p583
+S'US Dollar / Guarani'
+p584
+sS'EURPKR'
+p585
+S'Euro Dollar / Pakistan Rupee'
+p586
+sS'SARPKR'
+p587
+S'Saudi Riyal / Pakistan Rupee'
+p588
+sS'EURLBP'
+p589
+S'Euro Dollar / Lebanese Pound'
+p590
+sS'MYRPKR'
+p591
+S'Malaysian Ringgit / Pakistan Rupee'
+p592
+sS'EURTZS'
+p593
+S'Euro Dollar / Tanzanian Shilling'
+p594
+sS'ZARTHB'
+p595
+S'South African Rand / Thai Baht'
+p596
+sS'CADINR'
+p597
+S'Canadian Dollar / Indian Rupee'
+p598
+sS'TNDGBP'
+p599
+S'Tunisian Dinar / Pound Sterling'
+p600
+sS'GBPETB'
+p601
+S'Pound Sterling / Ethiopian Birr'
+p602
+sS'GBPTND'
+p603
+S'Pound Sterling / Tunisian Dinar'
+p604
+sS'MYREUR'
+p605
+S'Malaysian Ringgit / Euro Dollar'
+p606
+sS'GBPBWP'
+p607
+S'Pound Sterling / Pula'
+p608
+sS'EURBRL'
+p609
+S'Euro Dollar / Brazilian Real'
+p610
+sS'TWDKRW'
+p611
+S'New Taiwan Dollar / Korean Won'
+p612
+sS'RUBJPY'
+p613
+S'Russian Ruble / Japanese Yen'
+p614
+sS'CZKMXN'
+p615
+S'Czech Koruna / Mexican Peso'
+p616
+sS'USDCLP'
+p617
+S'US Dollar / Chilean Peso'
+p618
+sS'EURMOP'
+p619
+S'Euro Dollar / Pataca'
+p620
+sS'RUBUSD'
+p621
+S'Russian Ruble / US Dollar'
+p622
+sS'NOKGBP'
+p623
+S'Norwegian Krone / Pound Sterling'
+p624
+sS'USDKZT'
+p625
+S'US Dollar / Tenge'
+p626
+sS'GBPIDR'
+p627
+S'Pound Sterling / Indian Rupiah'
+p628
+sS'EURSZL'
+p629
+S'Euro Dollar / Lilangeni'
+p630
+sS'CHFBGN'
+p631
+S'Swiss Franc / Bulgarian Lev'
+p632
+sS'ZARHKD'
+p633
+S'South African Rand / Hong Kong Dollar'
+p634
+sS'VEFEUR'
+p635
+S'Venezualan bolivar fuerte / Euro Dollar'
+p636
+sS'INRPKR'
+p637
+S'Indian Rupee / Pakistan Rupee'
+p638
+sS'EURJPY'
+p639
+S'Euro Dollar / Japanese Yen'
+p640
+sS'GBPHNL'
+p641
+S'Pound Sterling / Honduran Lempira'
+p642
+sS'TWDTHB'
+p643
+S'New Taiwan Dollar / Thai Baht'
+p644
+sS'AUDPLN'
+p645
+S'Australian Dollar / Polish Zloty'
+p646
+sS'FJDGBP'
+p647
+S'Fiji Dollar / Pound Sterling'
+p648
+sS'USDCAD'
+p649
+S'US Dollar / Canadian Dollar'
+p650
+sS'JPYCNY'
+p651
+S'Japanese Yen / Yuan Renminbi'
+p652
+sS'AEDCHF'
+p653
+S'UAE Dirham / Swiss Franc'
+p654
+sS'USDVND'
+p655
+S'US Dollar / Dong'
+p656
+sS'GBPBND'
+p657
+S'Pound Sterling / Brunei Dollar'
+p658
+sS'MXNHKD'
+p659
+S'Mexican Peso / Hong Kong Dollar'
+p660
+sS'MYRKRW'
+p661
+S'Malaysian Ringgit / Korean Won'
+p662
+sS'XPTUSD'
+p663
+S'Platinum / US Dollar'
+p664
+sS'TWDDKK'
+p665
+S'New Taiwan Dollar / Danish Krone'
+p666
+sS'UAHDKK'
+p667
+S'Hryvnia / Danish Krone'
+p668
+sS'HKDCHF'
+p669
+S'Hong Kong Dollar / Swiss Franc'
+p670
+sS'AEDUSD'
+p671
+S'UAE Dirham / US Dollar'
+p672
+sS'CNYUSD'
+p673
+S'Yuan Renminbi / US Dollar'
+p674
+sS'NZDIDR'
+p675
+S'New Zealand Dollar / Indian Rupiah'
+p676
+sS'ZARTWD'
+p677
+S'South African Rand / New Taiwan Dollar'
+p678
+sS'JPYIDR'
+p679
+S'Japanese Yen / Indian Rupiah'
+p680
+sS'EURSVC'
+p681
+S'Euro Dollar / El Salvador Colon'
+p682
+sS'AUDTWD'
+p683
+S'Australian Dollar / New Taiwan Dollar'
+p684
+sS'CNYJPY'
+p685
+S'Yuan Renminbi / Japanese Yen'
+p686
+sS'AEDEUR'
+p687
+S'UAE Dirham / Euro Dollar'
+p688
+sS'THBAUD'
+p689
+S'Thai Baht / Australian Dollar'
+p690
+sS'PKRZAR'
+p691
+S'Pakistan Rupee / South African Rand'
+p692
+sS'EURUYU'
+p693
+S'Euro Dollar / Peso Uruguayo'
+p694
+sS'SGDJPY'
+p695
+S'Singapore Dollar / Japanese Yen'
+p696
+sS'INRGBP'
+p697
+S'Indian Rupee / Pound Sterling'
+p698
+sS'ZARINR'
+p699
+S'South African Rand / Indian Rupee'
+p700
+sS'JPYAED'
+p701
+S'Japanese Yen / UAE Dirham'
+p702
+sS'AUDNZD'
+p703
+S'Australian Dollar / New Zealand Dollar'
+p704
+sS'HKDMYR'
+p705
+S'Hong Kong Dollar / Malaysian Ringgit'
+p706
+sS'GBPCRC'
+p707
+S'Pound Sterling / Costa Rican Colon'
+p708
+sS'CHFSGD'
+p709
+S'Swiss Franc / Singapore Dollar'
+p710
+sS'USDGHS'
+p711
+S'US Dollar / Cedi'
+p712
+sS'THBCHF'
+p713
+S'Thai Baht / Swiss Franc'
+p714
+sS'JPYPLN'
+p715
+S'Japanese Yen / Polish Zloty'
+p716
+sS'CHFISK'
+p717
+S'Swiss Franc / Iceland Krona'
+p718
+sS'USDILS'
+p719
+S'US Dollar / New Israeli Sheqel'
+p720
+sS'IDREUR'
+p721
+S'Indonesia Rupiah / Euro Dollar'
+p722
+sS'NGNGBP'
+p723
+S'Naira / Pound Sterling'
+p724
+sS'XAUEUR'
+p725
+S'Gold / Euro Dollar'
+p726
+sS'ZARSEK'
+p727
+S'South African Rand / Swedish Krona'
+p728
+sS'USDRON'
+p729
+S'US Dollar / Romanian Leu'
+p730
+sS'EURPGK'
+p731
+S'Euro Dollar / Papua New Guinea Kina'
+p732
+sS'TWDINR'
+p733
+S'New Taiwan Dollar / Indian Rupee'
+p734
+sS'PKRGBP'
+p735
+S'Pakistan Rupee / Pound Sterling'
+p736
+sS'SGDNZD'
+p737
+S'Singapore Dollar / New Zealand Dollar'
+p738
+sS'IDRZAR'
+p739
+S'Indonesia Rupiah / South African Rand'
+p740
+sS'USDBDT'
+p741
+S'US Dollar / Taka'
+p742
+sS'USDEGP'
+p743
+S'US Dollar / Egyptian Pound'
+p744
+sS'ARSSGD'
+p745
+S'Argentine Peso / Singapore Dollar'
+p746
+sS'EURSOS'
+p747
+S'Euro Dollar / Somali Shilling'
+p748
+sS'USDLVL'
+p749
+S'US Dollar / Latvian Lats'
+p750
+sS'JPYNZD'
+p751
+S'Japanese Yen / New Zealand Dollar'
+p752
+sS'USDNOK'
+p753
+S'US Dollar / Norwegian Krone'
+p754
+sS'USDALL'
+p755
+S'US Dollar / Lek'
+p756
+sS'CHFDKK'
+p757
+S'Swiss Franc / Danish Krone'
+p758
+sS'DKKUSD'
+p759
+S'Danish Krone / US Dollar'
+p760
+sS'NOKZAR'
+p761
+S'Norwegian Krone / South African Rand'
+p762
+sS'EURBDT'
+p763
+S'Euro Dollar / Taka'
+p764
+sS'AUDINR'
+p765
+S'Australian Dollar / Indian Rupee'
+p766
+sS'USDPAB'
+p767
+S'US Dollar / Balboa'
+p768
+sS'USDDKK'
+p769
+S'US Dollar / Danish Krone'
+p770
+sS'SGDPLN'
+p771
+S'Singapore Dollar / Polish Zloty'
+p772
+sS'DKKHUF'
+p773
+S'Danish Krone / Hungarian Forint'
+p774
+sS'CHFZAR'
+p775
+S'Swiss Franc / South African Rand'
+p776
+sS'IDRJPY'
+p777
+S'Indonesia Rupiah / Japanese Yen'
+p778
+sS'EURETB'
+p779
+S'Euro Dollar / Ethiopian Birr'
+p780
+sS'TRYDKK'
+p781
+S'Turkish Lira / Danish Krone'
+p782
+sS'USDUZS'
+p783
+S'US Dollar / Uzbekistan Sum'
+p784
+sS'DKKEEK'
+p785
+S'Danish Krone / Kroon'
+p786
+sS'DKKCHF'
+p787
+S'Danish Krone / Swiss Franc'
+p788
+sS'EURNOK'
+p789
+S'Euro Dollar / Norwegian Krone'
+p790
+sS'HUFCHF'
+p791
+S'Hungarian Forint / Swiss Franc'
+p792
+sS'GBPVND'
+p793
+S'Pound Sterling / Dong'
+p794
+sS'USDPKR'
+p795
+S'US Dollar / Pakistan Rupee'
+p796
+sS'ARSCHF'
+p797
+S'Argentine Peso / Swiss Franc'
+p798
+sS'SGDBRL'
+p799
+S'Singapore Dollar / Brazilian Real'
+p800
+sS'PLNEUR'
+p801
+S'Polish Zloty / Euro Dollar'
+p802
+sS'INRUSD'
+p803
+S'Indian Rupee / US Dollar'
+p804
+sS'TWDZAR'
+p805
+S'New Taiwan Dollar / South African Rand'
+p806
+sS'MXNCAD'
+p807
+S'Mexican Peso / Canadian Dollar'
+p808
+sS'CADSGD'
+p809
+S'Canadian Dollar / Singapore Dollar'
+p810
+sS'DKKTWD'
+p811
+S'Danish Krone / New Taiwan Dollar'
+p812
+sS'JPYMYR'
+p813
+S'Japanese Yen / Malaysian Ringgit'
+p814
+sS'GBPKZT'
+p815
+S'Pound Sterling / Tenge'
+p816
+sS'USDCOP'
+p817
+S'US Dollar / Colombian Peso'
+p818
+sS'OMRGBP'
+p819
+S'Rial Omani / Pound Sterling'
+p820
+sS'ILSJOD'
+p821
+S'New Israeli Sheqel / Jordanian Dinar'
+p822
+sS'MYRHKD'
+p823
+S'Malaysian Ringgit / Hong Kong Dollar'
+p824
+sS'USDHUF'
+p825
+S'US Dollar / Hungarian Forint'
+p826
+sS'GBPCHF'
+p827
+S'Pound Sterling / Swiss Franc'
+p828
+sS'EURVEF'
+p829
+S'Euro Dollar / Venezualan bolivar fuerte'
+p830
+sS'EURCNY'
+p831
+S'Euro Dollar / Yuan Renminbi'
+p832
+sS'ZARKRW'
+p833
+S'South African Rand / Korean Won'
+p834
+sS'ILSCAD'
+p835
+S'New Israeli Sheqel / Canadian Dollar'
+p836
+sS'MXNSGD'
+p837
+S'Mexican Peso / Singapore Dollar'
+p838
+sS'USDNZD'
+p839
+S'US Dollar / New Zealand Dollar'
+p840
+sS'JPYGBP'
+p841
+S'Japanese Yen / Pound Sterling'
+p842
+sS'IDRHKD'
+p843
+S'Indonesia Rupiah / Hong Kong Dollar'
+p844
+sS'EURXAF'
+p845
+S'Euro Dollar / CFA Franc BEAC'
+p846
+sS'ISKCHF'
+p847
+S'Iceland Krona / Swiss Franc'
+p848
+sS'USDJPY'
+p849
+S'US Dollar / Japanese Yen'
+p850
+sS'HKDSEK'
+p851
+S'Hong Kong Dollar / Swedish Krona'
+p852
+sS'NZDPKR'
+p853
+S'New Zealand Dollar / Pakistan Rupee'
+p854
+sS'INRJPY'
+p855
+S'Indian Rupee / Japanese Yen'
+p856
+sS'HKDDKK'
+p857
+S'Hong Kong Dollar / Danish Krone'
+p858
+sS'KRWAUD'
+p859
+S'Korean Won / Australian Dollar'
+p860
+sS'IDRCHF'
+p861
+S'Indonesia Rupiah / Swiss Franc'
+p862
+sS'EURMUR'
+p863
+S'Euro Dollar / Mauritius Rupee'
+p864
+sS'CHFILS'
+p865
+S'Swiss Franc / New Israeli Sheqel'
+p866
+sS'USDMOP'
+p867
+S'US Dollar / Pataca'
+p868
+sS'TWDHKD'
+p869
+S'New Taiwan Dollar / Hong Kong Dollar'
+p870
+sS'JPYDKK'
+p871
+S'Japanese Yen / Danish Krone'
+p872
+sS'EURBHD'
+p873
+S'Euro Dollar / Bahraini Dinar'
+p874
+sS'XAUINR'
+p875
+S'Gold / Indian Rupee'
+p876
+sS'DOPGBP'
+p877
+S'Dominican Peso / Pound Sterling'
+p878
+sS'USDBWP'
+p879
+S'US Dollar / Pula'
+p880
+sS'HKDTHB'
+p881
+S'Hong Kong Dollar / Thai Baht'
+p882
+sS'TRYZAR'
+p883
+S'Turkish Lira / South African Rand'
+p884
+sS'JPYLVL'
+p885
+S'Japanese Yen / Latvian Lats'
+p886
+sS'USDSOS'
+p887
+S'US Dollar / Somali Shilling'
+p888
+sS'SZLGBP'
+p889
+S'Lilangeni / Pound Sterling'
+p890
+sS'NOKSEK'
+p891
+S'Norwegian Krone / Swedish Krona'
+p892
+sS'JPYTHB'
+p893
+S'Japanese Yen / Thai Baht'
+p894
+sS'EURBZD'
+p895
+S'Euro Dollar / Belize Dollar'
+p896
+sS'GBPSZL'
+p897
+S'Pound Sterling / Lilangeni'
+p898
+sS'MADGBP'
+p899
+S'Moroccan Dirham / Pound Sterling'
+p900
+sS'MYRCAD'
+p901
+S'Malaysian Ringgit / Canadian Dollar'
+p902
+sS'VNDJPY'
+p903
+S'Dong / Japanese Yen'
+p904
+sS'EURINR'
+p905
+S'Euro Dollar / Indian Rupee'
+p906
+sS'ZARBWP'
+p907
+S'South African Rand / Pula'
+p908
+sS'CADAED'
+p909
+S'Canadian Dollar / UAE Dirham'
+p910
+sS'GBPARS'
+p911
+S'Pound Sterling / Argentine Peso'
+p912
+sS'NZDEUR'
+p913
+S'New Zealand Dollar / Euro Dollar'
+p914
+sS'JPYCAD'
+p915
+S'Japanese Yen / Canadian Dollar'
+p916
+sS'GBPPGK'
+p917
+S'Pound Sterling / Papua New Guinea Kina'
+p918
+sS'GBPJMD'
+p919
+S'Pound Sterling / Jamaican Dollar'
+p920
+sS'USDSDD'
+p921
+S'US Dollar / Sudanese Dinar'
+p922
+sS'CHFNOK'
+p923
+S'Swiss Franc / Norwegian Krone'
+p924
+sS'EURTTD'
+p925
+S'Euro Dollar / Trinidad and Tobago Dollar'
+p926
+sS'ZARCYP'
+p927
+S'South African Rand / Cyprus Pound'
+p928
+ss.

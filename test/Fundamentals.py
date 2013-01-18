@@ -10,9 +10,18 @@ class Fundamentals :
         self.ticker_symbol = ""
 
 
-        
-    # EPS (Earnings per share)
+    # Returns On Investment Capital (ROIC) 
     
+    
+    # Earnings Per Share (EPS) 
+
+    # Sales (or Revenue) 
+        
+    # Book Value (or Equity) Per Share (BVPS) 
+
+    # Free Cash Flow (FCF) 
+
+
         
     i = 12345
     
